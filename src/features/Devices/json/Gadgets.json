@@ -9,19 +9,19 @@
         "url": "./gproxsl",
         "name" : "G PRO X SUPERLIGHT",
         "mini_description" : "Gaming mouse",
-        "image1" : "/images/devices/device/GproSL-1.png"
+        "image1" : "/images/devices/device/GproSL-1.jpg"
     },
     {
         "url": "./hhkb",
         "name" : "HHKB",
         "mini_description" : "Capacitive non-contact keyboard",
-        "image1" : "/images/devices/device/HHKB-1.png"
+        "image1" : "/images/devices/device/HHKB-1.jpg"
     },
     {
         "url": "./streamdeck",
         "name" : "STREAM DECK",
         "mini_description" : "Controller for PC",
-        "image1" : "/images/devices/device/StreamDeck-1.png"
+        "image1" : "/images/devices/device/StreamDeck-1.jpg"
     },
     {
         "url": "./vr3000",
@@ -39,19 +39,19 @@
         "url": "./usbhub",
         "name" : "ROSONWAY USB Hub",
         "mini_description" : "USB Hub",
-        "image1" : "/images/devices/device/USBhub-1.png"
+        "image1" : "/images/devices/device/USBhub-1.jpg"
     },
     {
         "url": "./varmilo",
         "name" : "Varmilo",
         "mini_description" : "Mechanical keyboard",
-        "image1" : "/images/devices/device/varmilo-1.png"
+        "image1" : "/images/devices/device/varmilo-1.jpg"
     },
     {
         "url": "./alexa",
         "name" : "Alexa",
         "mini_description" : "Smart speaker",
-        "image1" : "/images/devices/device/Alexa-1.png"
+        "image1" : "/images/devices/device/Alexa-1.jpg"
     },
     {
         "url": "./switchbot",
@@ -69,24 +69,24 @@
         "url": "./webcamera",
         "name" : "UCAM-C820ABBK",
         "mini_description" : "Web camera",
-        "image1" : "/images/devices/device/WebCamera-1.png"
+        "image1" : "/images/devices/device/WebCamera-1.jpg"
     },
     {
         "url": "./iphone15",
         "name": "iPhone15 (BLUE 128GB)",
         "mini_description": "Main smartphone",
-        "image1": "/images/devices/device/iPhone15-1.png"
+        "image1": "/images/devices/device/iPhone15-1.jpg"
     },
     {
         "url": "./iphonese2",
         "name": "iPhoneSE2 (BLACK 64GB)",
         "mini_description": "Sub smartphone",
-        "image1": "/images/devices/device/iPhoneSE-1.png"
+        "image1": "/images/devices/device/iPhoneSE-1.jpg"
     },
     {
         "url": "./casekoo",
         "name" : "CASEKOO Phone case",
         "mini_description" : "iPhone15's case",
-        "image1" : "/images/devices/device/Casekoo-1.png"
+        "image1" : "/images/devices/device/Casekoo-1.jpg"
     }
 ]
