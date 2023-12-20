@@ -10,7 +10,7 @@ const Header = () => {
                     <ul className="flex items-center">
                         <li className="list-none inline-block mr-5 max-sm:mr-2">
                             <a href="/" className="block text-center hover:opacity-40 duration-300">
-                                <img src="/images/logo.png" alt="" className="w-11 max-sm:w-10"></img>
+                                <img src="/images/logo.jpg" alt="" className="w-11 max-sm:w-10"></img>
                             </a>
                         </li>
                         <li className="list-none inline-block mr-5 max-sm:mr-2">
