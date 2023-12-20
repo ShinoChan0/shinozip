@@ -1,0 +1,36 @@
+{
+    "home": {
+        "info": {
+            "title": "Info",
+            "age": "Age",
+            "birthday": "Birthday",
+            "address": "Address",
+            "prefecture": "Kagawa, Japan",
+            "text": {
+                "1": "I work under the name of Shino and Shinochan!",
+                "2": "I am an ordinary high school student who likes to create websites and play games.",
+                "3": "I am also into collecting",
+                "4": "Gadgets",
+                "5": "!"
+            }
+        },
+        "bio": {
+            "title": "Bio",
+            "text": {
+                "1": "Born in Osaka Japan.",
+                "2": "soon"
+            } 
+        },
+        "favorite": {
+            "title": "I ♥"
+        }
+    },
+    "devices": {
+        "header": {
+            "text": {
+                "1": "Here is a list of the devices that I use.",
+                "2": "Prices are approximate"
+            } 
+        }
+    }
+}
