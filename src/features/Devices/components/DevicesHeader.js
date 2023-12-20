@@ -10,7 +10,7 @@ const DevicesHeader = () => {
                 <span className="block text-xl max-md:text-lg">{t("devices.header.text.1")}</span>
                 <span className="block text-xl max-md:text-lg">{t("devices.header.text.2")}</span>
             </div>
-            <img src="/images/devices/desktop.jpg" alt="" className="opacity-30 h-72 max-sm:h-48 w-full object-cover"></img>
+            <img src="/images/devices/desktop.png" alt="" className="opacity-30 h-72 max-sm:h-48 w-full object-cover"></img>
         </div>
     )
 }

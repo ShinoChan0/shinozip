@@ -3,90 +3,90 @@
         "url": "./pc",
         "name" : "PC",
         "mini_description" : "Gaming PC",
-        "image1" : "/images/devices/device/PC-1.jpg"
+        "image1" : "/images/devices/device/PC-1.png"
     },
     {
         "url": "./gproxsl",
         "name" : "G PRO X SUPERLIGHT",
         "mini_description" : "Gaming mouse",
-        "image1" : "/images/devices/device/GproSL-1.jpg"
+        "image1" : "/images/devices/device/GproSL-1.png"
     },
     {
         "url": "./hhkb",
         "name" : "HHKB",
         "mini_description" : "Capacitive non-contact keyboard",
-        "image1" : "/images/devices/device/HHKB-1.jpg"
+        "image1" : "/images/devices/device/HHKB-1.png"
     },
     {
         "url": "./streamdeck",
         "name" : "STREAM DECK",
         "mini_description" : "Controller for PC",
-        "image1" : "/images/devices/device/StreamDeck-1.jpg"
+        "image1" : "/images/devices/device/StreamDeck-1.png"
     },
     {
         "url": "./vr3000",
         "name" : "VR3000",
         "mini_description" : "Earphone",
-        "image1" : "/images/devices/device/VR3000-1.jpg"
+        "image1" : "/images/devices/device/VR3000-1.png"
     },
     {
         "url": "./earpiece",
         "name" : "EarPiece",
         "mini_description" : "Earpiece",
-        "image1" : "/images/devices/device/EarPiece-1.jpg"
+        "image1" : "/images/devices/device/EarPiece-1.png"
     },
     {
         "url": "./usbhub",
         "name" : "ROSONWAY USB Hub",
         "mini_description" : "USB Hub",
-        "image1" : "/images/devices/device/USBhub-1.jpg"
+        "image1" : "/images/devices/device/USBhub-1.png"
     },
     {
         "url": "./varmilo",
         "name" : "Varmilo",
         "mini_description" : "Mechanical keyboard",
-        "image1" : "/images/devices/device/varmilo-1.jpg"
+        "image1" : "/images/devices/device/varmilo-1.png"
     },
     {
         "url": "./alexa",
         "name" : "Alexa",
         "mini_description" : "Smart speaker",
-        "image1" : "/images/devices/device/Alexa-1.jpg"
+        "image1" : "/images/devices/device/Alexa-1.png"
     },
     {
         "url": "./switchbot",
         "name" : "SwitchBot Hub Mini",
         "mini_description" : "Smart Remote controller",
-        "image1" : "/images/devices/device/SwitchBot-1.jpg"
+        "image1" : "/images/devices/device/SwitchBot-1.png"
     },
     {
         "url": "./hamster",
         "name" : "Hamster Mouse",
         "mini_description" : "Mouse",
-        "image1" : "/images/devices/device/Hamster-1.jpg"
+        "image1" : "/images/devices/device/Hamster-1.png"
     },
     {
         "url": "./webcamera",
         "name" : "UCAM-C820ABBK",
         "mini_description" : "Web camera",
-        "image1" : "/images/devices/device/WebCamera-1.jpg"
+        "image1" : "/images/devices/device/WebCamera-1.png"
     },
     {
         "url": "./iphone15",
         "name": "iPhone15 (BLUE 128GB)",
         "mini_description": "Main smartphone",
-        "image1": "/images/devices/device/iPhone15-1.jpg"
+        "image1": "/images/devices/device/iPhone15-1.png"
     },
     {
         "url": "./iphonese2",
         "name": "iPhoneSE2 (BLACK 64GB)",
         "mini_description": "Sub smartphone",
-        "image1": "/images/devices/device/iPhoneSE-1.jpg"
+        "image1": "/images/devices/device/iPhoneSE-1.png"
     },
     {
         "url": "./casekoo",
         "name" : "CASEKOO Phone case",
         "mini_description" : "iPhone15's case",
-        "image1" : "/images/devices/device/Casekoo-1.jpg"
+        "image1" : "/images/devices/device/Casekoo-1.png"
     }
 ]
