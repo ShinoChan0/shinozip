@@ -17,7 +17,7 @@ const Header = () => {
                             <a href="/devices/" className="text-xl max-sm:text-lg font-bold hover:opacity-40">Devices</a>
                         </li>
                         <li className="list-none inline-block mr-5 max-sm:mr-2">
-                            <a href="https://github.com/ShinoChan0/React-Portfolio" className="flex items-center hover:opacity-40" target="_blank" rel="noreferrer">
+                            <a href="https://github.com/ShinoChan0/shinozip" className="flex items-center hover:opacity-40" target="_blank" rel="noreferrer">
                                 <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512" height="1.5em"
                                     width="1.5em" xmlns="http://www.w3.org/2000/svg" className="mr-1">
                                     <path
